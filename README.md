@@ -7,7 +7,8 @@
 In order to ensure the correct functioning of the application, you need a IBM Cloud account with the following services: 
 
 - A Node-RED instance 
-- A Watson Text to Speech service instance. 
+- A Watson Text to Speech service instance 
+- Microsoft Visual Studio 2015 
 
 You can easily create these services using your Lite Plan. Just go to the IBM Cloud Catalog. For the Node-RED instance, go to the Boilerplates section and click here: 
 
