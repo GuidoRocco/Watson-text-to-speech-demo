@@ -45,6 +45,22 @@ In the Watson Text to Speech Node, insert the credentials of your Watson Text to
 ![Node-RED Watson Credentials](https://github.com/GuidoRocco/Watson-text-to-speech-demo/blob/master/images/Picture_6.png) 
 
 
+For the client side of the project, open the project via Microsoft Visual Studio. I used the 2015 version, but the 2017 version should be backward-compatible. Open the MainWindow.xaml.cs file. You should get something like this: 
+
+
+![Microsoft Visual Studio Section](https://github.com/GuidoRocco/Watson-text-to-speech-demo/blob/master/images/Picture_7.png) 
+
+
+
+Go where the red arrow points and substitute the "xxx" part with your IBM Node-RED Account. Then, debug and compile the application. 
+
+
+
+![Watson Demo App](https://github.com/GuidoRocco/Watson-text-to-speech-demo/blob/master/images/Picture_8.png) 
+
+
+The app should run now without any problem. 
+
 
 
 
