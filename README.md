@@ -1,5 +1,7 @@
 # Watson-text-to-speech-demo
 
+> Wait, Repository incomplete - I'm working on it. 
+
 > This is a WPF Application that calls the Watson Text to Speech service via Node-RED in order to convert a written text to a .wav file that is streamed on the client's browser. 
 
 In order to ensure the correct functioning of the application, you need a IBM Cloud account with the following services: 
